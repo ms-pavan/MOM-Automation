@@ -1,0 +1,10 @@
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\MOMService\bin\MOMService.dll
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\MOMService\bin\MOMService.pdb
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\MOMService\bin\DataAccessLayer.dll
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\MOMService\bin\log4net.dll
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\MOMService\bin\System.Web.Mvc.dll
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\MOMService\bin\DataAccessLayer.pdb
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\MOMService\bin\log4net.xml
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\MOMService\obj\Release\MOMService.csprojResolveAssemblyReference.cache
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\MOMService\obj\Release\MOMService.dll
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\MOMService\obj\Release\MOMService.pdb

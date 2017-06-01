@@ -1,0 +1,8 @@
+2016-08-18 19:35:01,481 [12] INFO MOMService.Service1 - Started
+2016-08-18 19:35:11,171 [12] INFO DataAccessLayer.Implementations.DataAccess - Log started
+2017-06-01 14:50:26,729 [11] INFO MOMService.Service1 - Started
+2017-06-01 14:50:31,646 [11] INFO DataAccessLayer.Implementations.DataAccess - Log started
+2017-06-01 14:53:58,497 [17] INFO MOMService.Service1 - Started
+2017-06-01 14:53:58,497 [17] INFO DataAccessLayer.Implementations.DataAccess - Log started
+2017-06-01 14:56:08,965 [10] INFO MOMService.Service1 - Started
+2017-06-01 14:56:08,978 [10] INFO DataAccessLayer.Implementations.DataAccess - Log started

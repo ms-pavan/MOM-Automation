@@ -1,0 +1,7 @@
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\DataAccessLayer\bin\Release\log4net.dll
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\DataAccessLayer\bin\Release\System.Web.Mvc.dll
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\DataAccessLayer\bin\Release\log4net.xml
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\gegdc\SM350213\2017\sprint6\work\MOM_App\MOMService\DataAccessLayer\obj\Release\DataAccessLayer.pdb
