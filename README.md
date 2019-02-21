@@ -1,4 +1,4 @@
-MOM Application can be used to update daily status of Associates, get daily status mail
+Status Reporting and Tracking Tool can be used to update daily status of Associates, get daily status mail
 
 Additionally users can generate status reports with in a specified date range
 
